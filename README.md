@@ -17,7 +17,7 @@ OpenMP (CPU): Utilização de diretivas como #pragma omp parallel for para distr
 \
 OpenMP (GPU): Diretiva #pragma omp target map(tofrom: found, local_sHash) com map(to: _nIndex, sPrevHash, _tTime, _sData) para direcionar a execução para a GPU e mapear dados para os dispositivos de memória da GPU.
 \
-CUDA: Uso de kernels CUDA definidos com __global__ void mineBlockKernel, para executar operações de mineração na GPU, como cálculo de hashes.
+CUDA: Uso de kernels CUDA definidos com __global__ void mineBlockKernel, para executar operações de mineração na GPU, como cálculo de hashes (Não funciona).
 
 # Desempenho alcançado
 Tempo Sequencial : 15 minutos (O código não terminou de executar no parcode e após 15 minutos a sessão é encerrada)
