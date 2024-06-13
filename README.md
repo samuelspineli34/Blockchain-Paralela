@@ -1,4 +1,4 @@
-# Comparação de otimização do K-means para a classificação de regiões de acordo com a taxa de poluição utilizando OpenMP e MPI
+# Técnicas de computação paralela no processo de geração de hashes em blockchain
 Integrantes: Lucas Fiori Magalhaes Machado\
              Rafael Ferreira Garcia Almeida\
              Samuel Spineli Rodrigues
