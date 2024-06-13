@@ -7,7 +7,7 @@ Para compilar o programa no Parcode é necessário utilizar o comando mpic++ -st
 Para compilar a versão somente com o openMP a linha de comando é a seguinte nvcc -o TestChain -std=c++11 main.cpp Blockchain.cpp sha256.cu Block.cu -lstdc++ -Wno-deprecated-gpu-targets.
 
 # Como funciona
-O programa utiliza tecnicas de paralelismo na classe block.cpp pois ela é responsável pelo algoritmo de mineração na blockchain.
+O programa utiliza técnicas de paralelismo na classe block.cpp pois ela é responsável pelo algoritmo de mineração na blockchain.
 
 # Função paralelizada
 
