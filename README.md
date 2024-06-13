@@ -32,14 +32,5 @@ Speedup: 4,28
 CUDA: \
 Speedup: 
 
-
-# Link Github
-https://github.com/samuelspineli34/Computacao-Paralela-Projeto-1/tree/main
-
-# Código usado como base
-Here are the files for the TestChain C++ tutorial I have placed on my website http://davenash.com/2017/10/build-a-blockchain-with-c/
-
-
-
 # TestChain (Código utilizado como base para o trabalho)
 Here are the files for the TestChain C++ tutorial I have placed on my website http://davenash.com/2017/10/build-a-blockchain-with-c/
